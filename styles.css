@@ -12,11 +12,11 @@
   font-family: "Plus Gothic Mono";
   font-weight: 400;
   font-style: normal;
-  src: url("/src/PlusGothicMono-Light.woff2") format('woff2');
+  src: url("src/PlusGothicMono-Light.woff2") format('woff2');
 }
 
 body {
-    font-family: 'Plus Gothic Mono', monospace;
+    font-family: "Plus Gothic Mono", monospace;
     font-size: 16px;
     line-height: 1.6;
     background-color: #f9f9f9;
