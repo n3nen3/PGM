@@ -101,7 +101,7 @@ body {
     text-decoration: underline;
     font-weight: 400;
     margin-bottom: 15px;
-    padding-top: 60px;
+    padding-top: 30px;
 }
 
 .contents-list {
@@ -124,10 +124,6 @@ body {
     background-color: #716a6a;
 }
 
-.contents-list li.active::before {
-    background-color: #000;
-}
-
 .contents-list li a {
     color: #716a6a;
     text-decoration: none;
@@ -135,10 +131,6 @@ body {
     text-transform: uppercase;
     font-weight: 300;
     transition: color 0.3s ease;
-}
-
-.contents-list li.active a {
-    color: #171818;
 }
 
 .contents-list li a:hover {
